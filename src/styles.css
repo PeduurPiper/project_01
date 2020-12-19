@@ -1,0 +1,139 @@
+#id {
+  background-color: #151931;
+}
+
+.main-banner {
+  border: 1px solid black;
+  padding: 20px;
+  height: 400px;
+  background-image: url(/assets/sub-banner2.jpeg);
+  background-size: cover;
+}
+
+.bl-text {
+  text-align: center;
+  padding: 70px;
+  font-size: 30px;
+  font-family: "Cabin Condensed", sans-serif;
+}
+
+.col {
+  padding: 50px;
+}
+
+.contain-col {
+  background-color: #f8f9fc;
+}
+
+.col-header {
+  font-size: 25px;
+}
+
+.holder-icon {
+  color: blue;
+  font-size: 90px;
+}
+
+.col-top {
+  border: 1px solid black;
+}
+
+.bottom-col {
+  border: 2px solid #eeeef6;
+}
+
+.upper-text {
+  margin-bottom: 15px;
+}
+
+.arrow-icon {
+  text-align: center;
+  padding: 10px;
+  font-size: 40px;
+  color: blue;
+}
+
+.btn {
+  text-align: center;
+  margin: 50px;
+  font-size: 18px;
+}
+
+.sub-banner {
+  border: 1px solid black;
+  text-align: center;
+  padding: 200px;
+  margin-top: 10px;
+  background-image: url(/assets/main-banner.jpeg);
+  background-size: cover;
+}
+.sub-ban {
+  border: 1px solid black;
+  text-align: center;
+  padding: 200px;
+  margin-bottom: 10px;
+  background-image: url(/assets/space-banner.jpeg);
+  background-size: cover;
+}
+
+.sub-col {
+  padding: 100px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+
+.colpic-1 {
+  background-image: url(/assets/placeholder1.png);
+  background-size: cover;
+}
+
+.colpic-2 {
+  background-image: url(/assets/holderpic2.png);
+  background-size: cover;
+}
+
+.colpic-3 {
+  background-image: url(/assets/holerpic3.png);
+  background-size: cover;
+}
+
+.colpic-4 {
+  background-image: url(/assets/holderpic4.jpg);
+  background-size: cover;
+}
+
+.colpic-5 {
+  background-image: url(/assets/holderpic5.jpg);
+  background-size: cover;
+}
+
+.colpic-6 {
+  background-image: url(/assets/holderpic6.jpeg);
+  background-size: cover;
+}
+
+.alpha-banner {
+  border: 1px solid black;
+  padding: 100px;
+  margin: 20px;
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.banner-nav {
+  border: 1px solid black;
+  padding: 100px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.footer {
+  border: 1px solid black;
+  text-align: center;
+  padding: 100px;
+}
